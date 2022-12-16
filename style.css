@@ -1,0 +1,56 @@
+body {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.home {
+    color: tomato;
+
+}
+
+.about {
+    color: blue;
+}
+
+.contact {
+    color: white;
+}
+
+.faq {
+    color: greenyellow;
+}
+
+.nav {
+    background-color: black;
+    text-align: end;
+}
+
+/* .elements {
+    text-align: end;
+    padding: auto;
+} */
+.welcome {
+    height: 100vh;
+    background-image: url(img/sailboat.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.text {
+    padding: 180px;
+}
+
+.button {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 7px;
+}
